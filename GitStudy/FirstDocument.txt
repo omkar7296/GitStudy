@@ -1,1 +1,2 @@
 Using this file to study git
+Edited 1
