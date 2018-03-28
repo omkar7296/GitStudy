@@ -1,3 +1,4 @@
 Using this file to study git
-Edited 1
-checking diff
+Edited 2
+Omkar
+Test data 1
